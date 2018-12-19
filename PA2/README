@@ -1,0 +1,20 @@
+//-----------------------------------------------------------------------------
+// Georgio Klironomos
+// gklirono
+// Programming Assignment 2
+// List ADT for CMPS 101
+//-----------------------------------------------------------------------------
+
+List.h
+    -a header class for the List ADT
+List.c
+    -A list ADT conatined all the specified functions and fields.
+ListClient.c
+    -Provided test client for the list ADT.
+Lex.c
+    -Program that reads in an input file and, using the list ADT, alphabetizes the words from the file, 
+     then writes onto an output file the new arrangment of words.
+Makefile
+    -Creates and executable jar file of Lex.java.
+README
+    -Table of contents.
